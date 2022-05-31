@@ -1,0 +1,11 @@
+.educationArea {
+	font-weight: bold;
+}
+.educationArea:before {
+	content: '\f0d7';
+	font: 16px Octicons;
+	margin-right: 6px;
+}
+.educationStudyType {
+	margin-left: 25px;
+}

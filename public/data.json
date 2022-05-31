@@ -1,0 +1,77 @@
+{
+	"basics": {
+		"name": "Kieu Quang Thien",
+		"label": "Engineering Things",
+		"image": "",
+		"email": "thienkq@gmail.com",
+		"phone": "0934.433.505",
+		"url": "https://www.linkedin.com/in/thien-kieu-quang-22860534/",
+		"location": {
+			"address": "",
+			"city": "Hanoi",
+			"countryCode": "VN"
+		},
+		"summary": "My objective is to lead engineers and technical leaders to perform at their highest levels, by inspiring vision, developing a culture that makes everyone want to work together, serving and empowering every team member.",
+		"profiles": [
+			{
+				"network": "Linkedin",
+				"username": "thienkq",
+				"url": "https://www.linkedin.com/in/thien-kieu-quang-22860534/"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "KiotViet",
+			"position": "Engineering Manager",
+			"url": "https://company.com",
+			"startDate": "2019",
+			"endDate": "2022",
+			"summary": "Lead a cross-functional team of 30-40 members, including the tech leaders that are responsible for technical solutions in the team."
+            ,
+			"highlights": [
+				"Identify and proactively tackle future issues and manage breakdowns that block team objectives.",
+				"Deliver well-scoped programs of work that meet their goals, on time. Improving product quality by decreasing production issues 50% with a half the number of engineers over the last year.",
+				"Adopt the ATDD practice in the team development process to increase effectiveness and efficiency.",
+				"Provide strategic support to engineers to help them build the career they want. Empower five engineers from middle to senior level in a year.",
+				"Build a career path framework for engineering roles in the development teams."
+			]
+		},
+        {
+			"name": "KiotViet",
+			"position": "Tech Lead",
+			"url": "https://company.com",
+			"startDate": "2017",
+			"endDate": "2019",
+			"summary": "Took part in the project to develop the POS product which is 100K-user applications that fit any retailer in any industry"
+            ,
+			"highlights": [
+				"Embodied and promoted practices to ensure excellent quality products and services.",
+				"Increased the robustness and reliability of codebases, and devoted time to improving products and systems.",
+				"Collaborated with the product manager to prioritize technical backlog items."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Politechnico di Milano",
+			"url": "",
+			"area": "Computer Engineering",
+			"studyType": "Master",
+			"startDate": "2010",
+			"endDate": "2012",
+			"score": "110/110",
+			"courses": ["DB1101 - Basic SQL"]
+		},
+		{
+			"institution": "Hanoi University of Technology",
+			"url": "",
+			"area": "Computer Science",
+			"studyType": "Bachelor",
+			"startDate": "2004",
+			"endDate": "2009",
+			"score": "8.2/10",
+			"courses": ["DB1101 - Basic SQL"]
+		}
+	]
+}
