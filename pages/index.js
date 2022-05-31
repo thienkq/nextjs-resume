@@ -128,7 +128,6 @@ export default function Home() {
 											<div>{w.summary}</div>
 										</div>
 										<h5><b>Details</b></h5>
-
 										<ul class="highlights">
 											{w.highlights.map((dt) => (
 												<li class="bullet">{dt}</li>
